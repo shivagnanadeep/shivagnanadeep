@@ -10,20 +10,6 @@
 	<a href="https://www.instagram.com/__shiva_gnana_deep/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<!--<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>-->
 </p>
-<!--
-**shivagnanadeep/shivagnanadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 📈 My GitHub Stats and Activity
 
@@ -36,9 +22,6 @@ Here are some ideas to get you started:
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shivagnanadeep&theme=tokyonight)
 
-### 📊 Contribution Stats
-
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shivagnanadeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
 Credit: [shivagnanadeep](https://github.com/shivagnanadeep)
